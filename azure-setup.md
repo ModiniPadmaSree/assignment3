@@ -19,3 +19,8 @@ Setup a VM instance
 8. Inbound Port Rules: Specify which public inbound ports to allow (e.g., SSH for Linux).
 9. Review and Create: Review your chosen settings on the "Review + create" tab. Once validation passes, select "Create" to deploy your VM.
 10.Connect to the VM: After deployment, navigate to VM's overview page and use the "Connect" option to establish a connection(SSH for Linux).
+
+Deploying python:
+1. Install python by - apt install python
+2. Write python scripy - nano file.py
+3. Run code - python3 file.py
